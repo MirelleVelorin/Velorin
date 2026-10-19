@@ -91,3 +91,9 @@ Velorin 目前主要在本地保存应用数据。公开仓库不包含个人聊
 
 本项目代码使用 MIT License。字体、图标、Expo、React Native 以及其他依赖遵循各自的许可证；字体授权文件保留在 `assets/fonts/` 中。
 
+
+## 致谢
+
+- 项目构思、需求定义、产品决策与最终验收：MirelleVelorin
+- AI 辅助开发：OpenAI Codex（在项目作者指导下协助功能实现、调试与测试）
+
