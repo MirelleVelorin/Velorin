@@ -1,0 +1,49 @@
+# Dependencies
+node_modules/
+
+# Expo and generated output
+.expo/
+.expo-*/
+dist/
+web-build/
+dist-sticker-check/
+expo-env.d.ts
+
+# Local caches and checks
+.npm-cache/
+
+# Native build output
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+/ios
+/android
+
+# Metro and debug logs
+.metro-health-check*
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.log
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Local/private MCP configuration
+mcp-gateway/mcp-servers.json
+mcp-gateway/mcp-oauth-state*.json
+mcp-gateway/logs/
+
+# Local assistant/editor settings
+.claude/
+
+# OS files
+.DS_Store
+Thumbs.db
+

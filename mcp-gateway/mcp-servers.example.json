@@ -1,0 +1,13 @@
+{
+  "servers": [
+    {
+      "id": "echo",
+      "name": "Echo 示例",
+      "enabled": true,
+      "transport": "stdio",
+      "command": "node",
+      "args": ["./mcp-gateway/examples/echo-server.js"]
+    }
+  ]
+}
+
